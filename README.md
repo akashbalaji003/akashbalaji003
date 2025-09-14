@@ -5,7 +5,6 @@
 I’m Akash Balaji, a **Computer Engineering Student** at **Penn State University** with a passion for **full-stack development**, **AI/ML**, and **data science**. I specialize in building scalable, efficient, and innovative applications. Currently exploring new technologies and always open to learning and contributing to impactful projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Balaji-blue)](https://linkedin.com/in/akashbalaji)
-[![GitHub](https://img.shields.io/badge/GitHub-akashbalaji003-black)](https://github.com/akashbalaji003)
 [![Email](https://img.shields.io/badge/Email-akashbalaji03@icloud.com-blue)](mailto:akashbalaji03@icloud.com)
 
 ---
