@@ -73,7 +73,7 @@ I’m Akash Balaji, a **Computer Engineering Student** at **Penn State Universit
 * Contributed to full-stack development for apps with a user base of 50,000+.
 * Implemented security tools that improved network performance by 20% and reduced post-launch bugs by 35%.
 
-### **Web3 Security Data Analyst (Part-time)**  
+#### **Web3 Security Data Analyst (Part-time)**  
 **Webacy** | Aug 2024 – Nov 2024  
 * Analyzed & labeled smart contract vulnerabilities for improved risk assessment.  
 * Identified trends via frequency & correlation analysis of risk tags.  
@@ -82,7 +82,7 @@ I’m Akash Balaji, a **Computer Engineering Student** at **Penn State Universit
 
 ---
 
-### **Data Analyst (Part-time)**  
+#### **Data Analyst (Part-time)**  
 **Beats by Dre** | May 2024 – Aug 2024  
 * Cleaned & normalized large-scale consumer review datasets (Pandas).  
 * Applied NLP (tokenization, sentiment analysis, theme detection) with Python & Gemini AI.  
